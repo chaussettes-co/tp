@@ -1,6 +1,27 @@
 /*Nav bar*/
 .navbar{
-    background-color: aqua;
+    background-color:#D2D2D2;
     display: flex;
-
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 2em;
+    padding-right: 2em;
+    height: 5em;
 }
+
+.nbdroite{
+    background-color: ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.nbgauche{
+    background-color: ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+}
+/*Fin Nav bar*/
