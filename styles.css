@@ -1,27 +1,19 @@
-/*Nav bar*/
-.navbar{
-    background-color:#D2D2D2;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-left: 2em;
-    padding-right: 2em;
-    height: 5em;
+/*css footer*/
+.footer{
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 1em;
 }
 
-.nbdroite{
-    background-color: ;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 30%;
+.lienF{
+    text-align: center;
+    
 }
 
-.nbgauche{
-    background-color: ;
+.lienF2{
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    width: 20%;
+    padding-right: 20em;
+    padding-left: 20em;
 }
-/*Fin Nav bar*/
+/*fin css footer*/
