@@ -30,7 +30,7 @@
 
 /*search bar*/
 .form-inline{
-    padding-left: 35em;
+    padding-left: 5%;
     padding-top: 1em;
     padding-bottom: 1em;
 }
@@ -58,3 +58,15 @@
 }
 /*fin*/
 
+/*Nouveautés*/
+.Ntitre{
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.Nimages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
