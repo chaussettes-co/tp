@@ -58,3 +58,15 @@
 }
 /*fin*/
 
+/*Nouveautés*/
+.Ntitre{
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.Nimages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
