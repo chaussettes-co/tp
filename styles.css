@@ -1,3 +1,8 @@
+a{
+    text-decoration:none;
+    color: black;
+}
+
 /*css footer*/
 .footer{
     text-align: center;
@@ -63,6 +68,7 @@
     text-align: center;
     padding-left: 3em;
     padding-right: 3em;
+    padding-top: 1em;
 }
 
 .Nimages{
@@ -71,4 +77,60 @@
     align-items: center;
     padding-left: 3em;
     padding-right: 3em;
+}
+
+/* list*/
+.liste{
+    display: flex;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 3em;
+}
+
+.boxD{
+    padding-left: 2em;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    margin-left: 27em;
+}
+
+.descriptionP{
+    margin: 2em;
+}
+
+.border-line{
+    border-top: 1px solid black;
+}
+
+.colonne{
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.AjoutPannier{
+    border: 1px solid black;
+}
+
+.descrip2{
+    padding-top: 2em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.titreDescription{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 30em;
+}
+
+.boxD2{
+    border: black 1px solid;
+}
+
+.GBoxD{
+    padding-left: 15%;
+    padding-right: 15%;
 }
